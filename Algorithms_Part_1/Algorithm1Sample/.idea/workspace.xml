@@ -22,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -50,37 +51,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ex19MergeSort">
-    <configuration name="Ex15InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex15InsertionSort" />
+  <component name="RunManager" selected="Application.Ex35LinearProbingHashST">
+    <configuration name="AS5KdTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AS5KdTree" />
       <module name="Algorithms, Part I" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex16ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex16ShellSort" />
+    <configuration name="AS5NearestNeighborVisualizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AS5NearestNeighborVisualizer" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="input100KkdTree.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AS5RangeSearchVisualizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AS5RangeSearchVisualizer" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="input100KkdTree.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex34SeparateChainingHashST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex34SeparateChainingHashST" />
       <module name="Algorithms, Part I" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex17ShuffleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex17ShuffleSort" />
-      <module name="Algorithms, Part I" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex18KnuthShuffle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex18KnuthShuffle" />
-      <module name="Algorithms, Part I" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex19MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex19MergeSort" />
+    <configuration name="Ex35LinearProbingHashST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex35LinearProbingHashST" />
       <module name="Algorithms, Part I" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex19MergeSort" />
-        <item itemvalue="Application.Ex18KnuthShuffle" />
-        <item itemvalue="Application.Ex17ShuffleSort" />
-        <item itemvalue="Application.Ex16ShellSort" />
-        <item itemvalue="Application.Ex15InsertionSort" />
+        <item itemvalue="Application.Ex35LinearProbingHashST" />
+        <item itemvalue="Application.Ex34SeparateChainingHashST" />
+        <item itemvalue="Application.AS5KdTree" />
+        <item itemvalue="Application.AS5NearestNeighborVisualizer" />
+        <item itemvalue="Application.AS5RangeSearchVisualizer" />
       </list>
     </recent_temporary>
   </component>
