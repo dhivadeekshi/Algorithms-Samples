@@ -50,7 +50,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ex9BareBonesWebCrawler">
+  <component name="RunManager" selected="Application.As1WordNet">
+    <configuration name="As1Outcast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="As1Outcast" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="synsets.txt hypernyms.txt outcast5.txt outcast8.txt outcast11.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="As1SAP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="As1SAP" />
+      <module name="Algorithms, Part I" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="As1WordNet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="As1WordNet" />
+      <module name="Algorithms, Part I" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="As1WordNet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="As1WordNet" />
+      <module name="Algorithms, Part I" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ex9BareBonesWebCrawler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex9BareBonesWebCrawler" />
       <module name="Algorithms, Part I" />
@@ -58,17 +87,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sample" />
-      <module name="Algorithms, Part I" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.As1WordNet" />
+        <item itemvalue="Application.As1SAP" />
+        <item itemvalue="Application.As1Outcast" />
+        <item itemvalue="Application.As1WordNet" />
         <item itemvalue="Application.Ex9BareBonesWebCrawler" />
-        <item itemvalue="Application.Sample" />
       </list>
     </recent_temporary>
   </component>
