@@ -51,23 +51,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ex22DijkstraSortestPath">
-    <configuration name="As1WordNet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="As1WordNet" />
+  <component name="RunManager" selected="Application.As2SeamCarver">
+    <configuration name="As2SeamCarver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="As2SeamCarver" />
       <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="chameleon.png" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Ex17PrimsEagerMST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex17PrimsEagerMST" />
-      <module name="Algorithms, Part I" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex18IndexMinPQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex18IndexMinPQ" />
       <module name="Algorithms, Part I" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.As2SeamCarver" />
         <item itemvalue="Application.Ex22DijkstraSortestPath" />
         <item itemvalue="Application.Ex23TopologicalSortestPath" />
         <item itemvalue="Application.Ex24BellmanFordSortestPath" />
         <item itemvalue="Application.Ex17PrimsEagerMST" />
-        <item itemvalue="Application.Ex18IndexMinPQ" />
       </list>
     </recent_temporary>
   </component>
