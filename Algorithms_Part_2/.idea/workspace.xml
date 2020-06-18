@@ -60,13 +60,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex17PrimsEagerMST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex17PrimsEagerMST" />
-      <module name="Algorithms, Part I" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Ex22DijkstraSortestPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex22DijkstraSortestPath" />
       <module name="Algorithms, Part I" />
@@ -74,27 +67,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex23TopologicalSortestPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex23TopologicalSortestPath" />
+    <configuration name="Ex25FlowEdge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex25FlowEdge" />
       <module name="Algorithms, Part I" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex24BellmanFordSortestPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex24BellmanFordSortestPath" />
+    <configuration name="Ex27FordFulkerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex27FordFulkerson" />
       <module name="Algorithms, Part I" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex27FordFulkerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex27FordFulkerson" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="tinyFN.txt" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex25FlowEdge" />
         <item itemvalue="Application.As2SeamCarver" />
         <item itemvalue="Application.Ex22DijkstraSortestPath" />
-        <item itemvalue="Application.Ex23TopologicalSortestPath" />
-        <item itemvalue="Application.Ex24BellmanFordSortestPath" />
-        <item itemvalue="Application.Ex17PrimsEagerMST" />
       </list>
     </recent_temporary>
   </component>
