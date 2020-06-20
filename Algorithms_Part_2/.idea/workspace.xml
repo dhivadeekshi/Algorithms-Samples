@@ -51,36 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.As2SeamCarver">
-    <configuration name="As2SeamCarver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="As2SeamCarver" />
-      <module name="Algorithms, Part I" />
-      <option name="PROGRAM_PARAMETERS" value="chameleon.png" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex22DijkstraSortestPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex22DijkstraSortestPath" />
-      <module name="Algorithms, Part I" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex25FlowEdge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex25FlowEdge" />
-      <module name="Algorithms, Part I" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex27FordFulkerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex27FordFulkerson" />
-      <module name="Algorithms, Part I" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ex33LongestRepeatedSubstring">
     <configuration name="Ex27FordFulkerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex27FordFulkerson" />
       <module name="Algorithms, Part I" />
@@ -89,11 +60,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex29LSDRadixSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex29LSDRadixSort" />
+      <module name="Algorithms, Part I" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex30MSDRadixSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex30MSDRadixSort" />
+      <module name="Algorithms, Part I" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex31ThreeWayRadixSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex31ThreeWayRadixSort" />
+      <module name="Algorithms, Part I" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex32KeywordSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex32KeywordSearch" />
+      <module name="Algorithms, Part I" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex33LongestRepeatedSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex33LongestRepeatedSubstring" />
+      <module name="Algorithms, Part I" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex25FlowEdge" />
-        <item itemvalue="Application.As2SeamCarver" />
-        <item itemvalue="Application.Ex22DijkstraSortestPath" />
+        <item itemvalue="Application.Ex33LongestRepeatedSubstring" />
+        <item itemvalue="Application.Ex32KeywordSearch" />
+        <item itemvalue="Application.Ex31ThreeWayRadixSort" />
+        <item itemvalue="Application.Ex30MSDRadixSort" />
+        <item itemvalue="Application.Ex29LSDRadixSort" />
       </list>
     </recent_temporary>
   </component>
