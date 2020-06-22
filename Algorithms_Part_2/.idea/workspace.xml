@@ -51,25 +51,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ex33LongestRepeatedSubstring">
+  <component name="RunManager" selected="Application.Ex36TernarySearchTriesST">
     <configuration name="Ex27FordFulkerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex27FordFulkerson" />
       <module name="Algorithms, Part I" />
       <option name="PROGRAM_PARAMETERS" value="tinyFN.txt" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex29LSDRadixSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex29LSDRadixSort" />
-      <module name="Algorithms, Part I" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex30MSDRadixSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex30MSDRadixSort" />
-      <module name="Algorithms, Part I" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -95,13 +81,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex35RWayTrieST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex35RWayTrieST" />
+      <module name="Algorithms, Part I" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex36TernarySearchTriesST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex36TernarySearchTriesST" />
+      <module name="Algorithms, Part I" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex36TernarySearchTriesST" />
+        <item itemvalue="Application.Ex35RWayTrieST" />
         <item itemvalue="Application.Ex33LongestRepeatedSubstring" />
         <item itemvalue="Application.Ex32KeywordSearch" />
         <item itemvalue="Application.Ex31ThreeWayRadixSort" />
-        <item itemvalue="Application.Ex30MSDRadixSort" />
-        <item itemvalue="Application.Ex29LSDRadixSort" />
       </list>
     </recent_temporary>
   </component>
