@@ -51,18 +51,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ex36TernarySearchTriesST">
+  <component name="RunManager" selected="Application.Ex40RabinKarpStringSearch">
     <configuration name="Ex27FordFulkerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex27FordFulkerson" />
       <module name="Algorithms, Part I" />
       <option name="PROGRAM_PARAMETERS" value="tinyFN.txt" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex31ThreeWayRadixSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex31ThreeWayRadixSort" />
-      <module name="Algorithms, Part I" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -74,22 +67,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex33LongestRepeatedSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex33LongestRepeatedSubstring" />
+    <configuration name="Ex37BruteForceStringSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex37BruteForceStringSearch" />
       <module name="Algorithms, Part I" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex35RWayTrieST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex35RWayTrieST" />
+    <configuration name="Ex38KnuthMorrisStringSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex38KnuthMorrisStringSearch" />
       <module name="Algorithms, Part I" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex36TernarySearchTriesST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex36TernarySearchTriesST" />
+    <configuration name="Ex39BoyerMooreStringSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex39BoyerMooreStringSearch" />
+      <module name="Algorithms, Part I" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex40RabinKarpStringSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex40RabinKarpStringSearch" />
       <module name="Algorithms, Part I" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex36TernarySearchTriesST" />
-        <item itemvalue="Application.Ex35RWayTrieST" />
-        <item itemvalue="Application.Ex33LongestRepeatedSubstring" />
+        <item itemvalue="Application.Ex40RabinKarpStringSearch" />
+        <item itemvalue="Application.Ex39BoyerMooreStringSearch" />
+        <item itemvalue="Application.Ex38KnuthMorrisStringSearch" />
+        <item itemvalue="Application.Ex37BruteForceStringSearch" />
         <item itemvalue="Application.Ex32KeywordSearch" />
-        <item itemvalue="Application.Ex31ThreeWayRadixSort" />
       </list>
     </recent_temporary>
   </component>
