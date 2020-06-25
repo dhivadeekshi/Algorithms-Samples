@@ -51,22 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ex40RabinKarpStringSearch">
-    <configuration name="Ex27FordFulkerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex27FordFulkerson" />
-      <module name="Algorithms, Part I" />
-      <option name="PROGRAM_PARAMETERS" value="tinyFN.txt" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex32KeywordSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex32KeywordSearch" />
-      <module name="Algorithms, Part I" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ex41RegexSearch">
     <configuration name="Ex37BruteForceStringSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex37BruteForceStringSearch" />
       <module name="Algorithms, Part I" />
@@ -95,13 +80,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex41RegexSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex41RegexSearch" />
+      <module name="Algorithms, Part I" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex41RegexSearch" />
         <item itemvalue="Application.Ex40RabinKarpStringSearch" />
         <item itemvalue="Application.Ex39BoyerMooreStringSearch" />
         <item itemvalue="Application.Ex38KnuthMorrisStringSearch" />
         <item itemvalue="Application.Ex37BruteForceStringSearch" />
-        <item itemvalue="Application.Ex32KeywordSearch" />
       </list>
     </recent_temporary>
   </component>
