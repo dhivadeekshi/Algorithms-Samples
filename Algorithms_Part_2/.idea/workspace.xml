@@ -51,49 +51,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ex41RegexSearch">
-    <configuration name="Ex37BruteForceStringSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex37BruteForceStringSearch" />
+  <component name="RunManager" selected="Application.Ex45TestAndCompareDataCompressions">
+    <configuration name="BinaryDump" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BinaryDump" />
       <module name="Algorithms, Part I" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex38KnuthMorrisStringSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex38KnuthMorrisStringSearch" />
-      <module name="Algorithms, Part I" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex39BoyerMooreStringSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex39BoyerMooreStringSearch" />
-      <module name="Algorithms, Part I" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex40RabinKarpStringSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex40RabinKarpStringSearch" />
-      <module name="Algorithms, Part I" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <option name="PROGRAM_PARAMETERS" value="16" />
+      <method v="2" />
     </configuration>
     <configuration name="Ex41RegexSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex41RegexSearch" />
       <module name="Algorithms, Part I" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex42RunLengthCodingCompression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex42RunLengthCodingCompression" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="16 &lt; inputFile.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex43HuffmanCompression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex43HuffmanCompression" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex44LZWCompression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex44LZWCompression" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex45TestAndCompareDataCompressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex45TestAndCompareDataCompressions" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex45TestAndCompareDataCompressions" />
+        <item itemvalue="Application.Ex44LZWCompression" />
+        <item itemvalue="Application.Ex43HuffmanCompression" />
+        <item itemvalue="Application.Ex42RunLengthCodingCompression" />
         <item itemvalue="Application.Ex41RegexSearch" />
-        <item itemvalue="Application.Ex40RabinKarpStringSearch" />
-        <item itemvalue="Application.Ex39BoyerMooreStringSearch" />
-        <item itemvalue="Application.Ex38KnuthMorrisStringSearch" />
-        <item itemvalue="Application.Ex37BruteForceStringSearch" />
       </list>
     </recent_temporary>
   </component>
