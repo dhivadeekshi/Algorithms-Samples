@@ -51,16 +51,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ex45TestAndCompareDataCompressions">
+  <component name="RunManager" selected="Application.As5CircularSuffixArray">
+    <configuration name="As5CircularSuffixArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="As5CircularSuffixArray" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
     <configuration name="BinaryDump" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="BinaryDump" />
       <module name="Algorithms, Part I" />
       <option name="PROGRAM_PARAMETERS" value="16" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Ex41RegexSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex41RegexSearch" />
-      <module name="Algorithms, Part I" />
       <method v="2" />
     </configuration>
     <configuration name="Ex42RunLengthCodingCompression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -89,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.As5CircularSuffixArray" />
         <item itemvalue="Application.Ex45TestAndCompareDataCompressions" />
         <item itemvalue="Application.Ex44LZWCompression" />
         <item itemvalue="Application.Ex43HuffmanCompression" />
         <item itemvalue="Application.Ex42RunLengthCodingCompression" />
-        <item itemvalue="Application.Ex41RegexSearch" />
       </list>
     </recent_temporary>
   </component>
