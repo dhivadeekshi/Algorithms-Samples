@@ -57,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.As5CircularSuffixArray">
+  <component name="RunManager" selected="Application.Ex15KruskalsMST">
     <configuration name="As5CircularSuffixArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="As5CircularSuffixArray" />
       <module name="Algorithms, Part I" />
@@ -69,10 +69,9 @@
       <option name="PROGRAM_PARAMETERS" value="16" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex42RunLengthCodingCompression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex42RunLengthCodingCompression" />
+    <configuration name="Ex15KruskalsMST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex15KruskalsMST" />
       <module name="Algorithms, Part I" />
-      <option name="PROGRAM_PARAMETERS" value="16 &lt; inputFile.txt" />
       <method v="2" />
     </configuration>
     <configuration name="Ex43HuffmanCompression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -95,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex15KruskalsMST" />
         <item itemvalue="Application.As5CircularSuffixArray" />
         <item itemvalue="Application.Ex45TestAndCompareDataCompressions" />
         <item itemvalue="Application.Ex44LZWCompression" />
         <item itemvalue="Application.Ex43HuffmanCompression" />
-        <item itemvalue="Application.Ex42RunLengthCodingCompression" />
       </list>
     </recent_temporary>
   </component>
