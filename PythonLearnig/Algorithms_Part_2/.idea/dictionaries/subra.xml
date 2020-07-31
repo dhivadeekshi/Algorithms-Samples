@@ -1,8 +1,11 @@
 <component name="ProjectDictionaryState">
   <dictionary name="subra">
     <words>
+      <w>dijkstras</w>
+      <w>fulkerson</w>
       <w>kruskals</w>
       <w>prims</w>
+      <w>sortest</w>
     </words>
   </dictionary>
 </component>
