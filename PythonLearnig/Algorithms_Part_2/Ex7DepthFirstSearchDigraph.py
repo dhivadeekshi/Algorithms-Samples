@@ -14,7 +14,12 @@ class DepthFirstSearchDigraph:
 
         self.marked = [False] * digraph.get_v()
         self.edge_to = [-1] * digraph.get_v()
-        dfs(source)
+        if isinstance(source, list):
+            for i in range(len(source)):
+                if not self.marked[i]:
+                    dfs(source[i])
+        else:
+            dfs(source)
 
     def has_path_to(self, v):
         return self.marked[v]
@@ -27,7 +32,6 @@ class DepthFirstSearchDigraph:
 
 
 def test_depth_first_search_digraph():
-
     digraph = Digraph(0)
     digraph.init_from('digraph.txt')
 
