@@ -3,6 +3,7 @@
     <words>
       <w>dijkstras</w>
       <w>fulkerson</w>
+      <w>karp</w>
       <w>kruskals</w>
       <w>prims</w>
       <w>sortest</w>
