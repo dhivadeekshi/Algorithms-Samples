@@ -139,17 +139,17 @@ class TernarySearchTrieST(SymbolTable):
             if node is None:
                 return lp
 
-            if node.value is not None:
-                lp = prefix + node.key
-
             if node.key < s[d]:
                 return lcp(node.right, prefix, lp, d)
             elif s[d] < node.key:
                 return lcp(node.left, prefix, lp, d)
-            elif d == len(s) - 1:
-                return lp
             else:
-                return lcp(node.middle, prefix + node.key, lp, d + 1)
+                if node.value is not None:
+                    lp = prefix + node.key
+                if d == len(s) - 1:
+                    return lp
+                else:
+                    return lcp(node.middle, prefix + node.key, lp, d + 1)
 
         return lcp(self.root)
 
